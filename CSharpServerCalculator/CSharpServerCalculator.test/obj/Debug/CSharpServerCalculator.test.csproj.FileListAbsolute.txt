@@ -1,0 +1,17 @@
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\bin\Debug\nunit.engine.dll
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\bin\Debug\nunit.engine.api.dll
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\bin\Debug\CSharpServerCalculator.test.dll
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\bin\Debug\CSharpServerCalculator.test.pdb
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\bin\Debug\CSharpServerCalculator.exe
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\bin\Debug\nunit.framework.dll
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\bin\Debug\CSharpServerCalculator.pdb
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\bin\Debug\CSharpServerCalculator.exe.config
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\bin\Debug\nunit.framework.pdb
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\bin\Debug\nunit.framework.xml
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\obj\Debug\CSharpServerCalculator.test.csprojAssemblyReference.cache
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\obj\Debug\CSharpServerCalculator.test.csproj.CoreCompileInputs.cache
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\obj\Debug\CSharpServerCalculator.test.csproj.CopyComplete
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\obj\Debug\CSharpServerCalculator.test.dll
+C:\Users\liv-i\Desktop\CSharpServerCalculator\CSharpServerCalculator.test\obj\Debug\CSharpServerCalculator.test.pdb
